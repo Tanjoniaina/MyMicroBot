@@ -6,8 +6,8 @@ import time
 from datetime import date, datetime, timezone, tzinfo
 
 bybit = ccxt.bybit({
-  'apiKey': '4IRRqtapkRflk95FLm',
-  'secret': 'qpfbWCaItsjCG1vJDLiHEcZOSsVCogrdRdY0',
+  'apiKey': '',
+  'secret': '',
   'options': {
         'defaultType': 'future', 
     }
